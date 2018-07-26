@@ -1,0 +1,6 @@
+# What files #
+##############
+*.json
+
+node_modules/
+.idea/

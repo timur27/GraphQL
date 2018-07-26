@@ -1,0 +1,8 @@
+GraphQL / Node.js / Express training
+------------------------------------
+
+My own training version of GraphQL implementation with the help of Express Web framework.
+
+
+* First server - fetches a simple output to a request
+* Second server - fetches more sophisticated version of data
